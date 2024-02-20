@@ -39,20 +39,22 @@ O SCCA não fornece nenhuma forma de avaliação de alunos, pagamento de parcela
 |RF3|	Gerenciar Matrícula |	Processamento de Inclusão, Alteração, Exclusão e Consulta de Matrículas de alunos em Cursos de Aperfeiçoamento|
 ...	...	...
 
-3.3.1 Requisitos Não Funcionais
+### 3.3.1 Requisitos Não Funcionais
 
-Código 	Restrição	Descrição
-RNF1	Ambiente	O ambiente operacional a ser utilizado é o Windows XP.
-RNF2	Ambiente	O sistema deverá executar em um computador configurado com uma impressora de tecnologia laser ou de jato de tinta, a ser usada para impressão dos relatórios.
-RNF3	Segurança	O produto deve restringir o acesso por meio de senhas individuais para o usuário.
+|Código| 	Restrição|	Descrição|
+|------|-----------------------------------------|----| 
+|RNF1|	Ambiente|	O ambiente operacional a ser utilizado é o Windows XP|
+|RNF2|	Ambiente|	O sistema deverá executar em um computador configurado com uma impressora de tecnologia laser ou de jato de tinta, a ser usada para impressão dos relatórios|
+|RNF3|	Segurança|	O produto deve restringir o acesso por meio de senhas individuais para o usuário|
 ...	...	...
 
-3.3.2 Usuários 
+### 3.3.2 Usuários 
 
 Descrição
-#	Ator	Definição
-1	Coordenador	Usuário gerente do sistema responsável pelo cadastro e manutenção de cursos de aperfeiçoamento. Possui acesso geral ao sistema.
-2	Secretaria	Usuário responsável por registros de alunos, professores, turmas e gerência de matrículas
+|#|	Ator	|Definição|
+|------|-----------------------------------------|----|
+|1|	Coordenador|Usuário gerente do sistema responsável pelo cadastro e manutenção de cursos de aperfeiçoamento. Possui acesso geral ao sistema|
+|2|	Secretaria|	Usuário responsável por registros de alunos, professores, turmas e gerência de matrículas|
 ...	...	...
 
 ...	...	...
