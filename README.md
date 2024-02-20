@@ -2,9 +2,9 @@
 
 `CURSO: Sistemas de Informação`
 
-`DISCIPLINA: Projeto - Aplicações Web`
+`DISCIPLINA: Projeto: Design Centrado no Usuário`
 
-`SEMESTRE: 1º`
+`Eixo: 3º`
 
 Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
 
