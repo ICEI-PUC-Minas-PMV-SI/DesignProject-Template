@@ -8,4 +8,4 @@ O estado da arte é um mapeamento de toda a produção acadêmica sobre um assun
 4.	Quais as divergências dos pesquisadores sobre o assunto? 
 5.	Quais aspectos carecem de maior abordagem?
 
-É importante referenciar estas pesquisas, fazendo as devidas citações de acordo com as normas da ABNT e colocando as referências completas ao final do trabalh
+É importante referenciar estas pesquisas, fazendo as devidas citações de acordo com as normas da ABNT e colocando as referências completas ao final do trabalho.
