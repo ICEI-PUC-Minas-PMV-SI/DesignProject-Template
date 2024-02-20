@@ -30,7 +30,7 @@ O SCCA não fornece nenhuma forma de avaliação de alunos, pagamento de parcela
 
 ### 3.3 Descrição geral do produto
 
-3.3.1 Requisitos Funcionais
+### 3.3.1 Requisitos Funcionais
 
 |Código	|Funcionalidade|	Descrição|
 |------|-----------------------------------------|----| 
