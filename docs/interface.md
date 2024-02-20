@@ -10,16 +10,16 @@ Descrever e especificar as necessidades da Coordenação do Curso de Sistemas de
 
 ### 3.2 Escopo do produto
 
-3.2.1 Nome do produto e seus componentes principais
+## 3.2.1 Nome do produto e seus componentes principais
 O produto será denominado SCCA – Sistema de Cadastro de Cursos de Aperfeiçoamento. Ele terá somente um componente (módulo) com os devidos elementos necessários à gestão de cursos.
 
-3.2.2 Missão do produto
+## 3.2.2 Missão do produto
 Gerenciar informações sobre a oferta de cursos de aperfeiçoamento, gerenciar a composição das turmas, alunos, professores e matrículas. 
 
-3.2.3 Limites do produto
+## 3.2.3 Limites do produto
 O SCCA não fornece nenhuma forma de avaliação de alunos, pagamento de parcelas do curso, pagamento a professore e agendamentos. O SCCA não contempla o atendimento a vários cursos de Sistemas de Informação de outras unidades da PUC Minas.
 
-3.2.4 Benefícios do produto
+## 3.2.4 Benefícios do produto
 
 |#|Benefício|	Valor para o Cliente|
 |------|-----------------------------------------|----| 
@@ -39,7 +39,7 @@ O SCCA não fornece nenhuma forma de avaliação de alunos, pagamento de parcela
 |RF3|	Gerenciar Matrícula |	Processamento de Inclusão, Alteração, Exclusão e Consulta de Matrículas de alunos em Cursos de Aperfeiçoamento|
 ...	...	...
 
-### 3.3.1 Requisitos Não Funcionais
+### 3.3.2 Requisitos Não Funcionais
 
 |Código| 	Restrição|	Descrição|
 |------|-----------------------------------------|----| 
